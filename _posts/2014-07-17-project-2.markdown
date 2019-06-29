@@ -1,15 +1,15 @@
 ---
-title: 足控资源合集
-subtitle: Website Design
+title: 橘家的男性事件
+subtitle: 动漫本子合集
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: 0026.jpg
-thumbnail: 0023.jpg
+img: 001_002.jpg
+thumbnail: 001_002_nail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 大胸大胸大胸
 
 ---
